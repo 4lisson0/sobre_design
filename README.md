@@ -119,6 +119,11 @@ Alguns **livros** no drive: [Livros](https://drive.google.com/drive/folders/10GB
 
 ---
 
+#### 📌 Ferramentas de Objetos Mock:
+- [mockuphone](https://mockuphone.com/)
+  
+---
+
 ## 💻 Lógica de Programação
 ### 📌 Introdução
 - **O que é?**: É a base para o desenvolvimento de software, envolvendo resolução de problemas com algoritmos.  
